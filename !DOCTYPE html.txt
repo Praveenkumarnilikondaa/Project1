@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Codebeautify.org Text to HTML Converter</title>
+	</head>
+	<body>
+		<p>You are scheduled for interview on Monday August 14th at 10am ET (7:30pm IST). View this email in HTML and click on "Join Microsoft Teams Meeting" to join the conference. You can load Teams on web browser or install Teams on your PC.
+ 
+
+ 
+--------------------
+ 
+
+ 
+Company: Big Idea Technology LLC
+ 
+Job: IT Support Specialist - Level 2/3 - Hyderabad, India</p>
+	</body>
+</html>
